@@ -1,0 +1,44 @@
+Team Distribution :
+-------------------------
+ON THE GIVEN DATA THE TEAM WITH MOST NUMBER OF EMPLOYESS IS "NEW ORELANS PELICANS" which is followed by the "MEMPHIS GRIZZLIES".
+THE TEAM WITH THE LEAST NUMBER OF EMPLOYESS IS "ORLANDO MAGIC" and "MINNESOTA TIMBERWOLVES".
+FROM THIS DATA IT IS CLEAR THAT THE NEW ORLEANS GOT MORE PRODUCTIVITY SINCE THEY GOT THE MAX NUMVBER OF EMPLOYESS PROVIDED THAT ALL THE EMPLOYESS ARE HARDWORKING AND WELL TRAINED FOR THE WORK .
+
+
+
+ POSITION ANALYSIS OF THE DATA :
+ ------------------------------------
+
+ HERE MORE PROMINENT GROUP POSITION IS THE "C" group who got the most numvber of EMPLOYESS across the list and hence the most intense and human power required position is the POSITION C     
+ 
+
+ AGE ANALYSIS :
+ -----------------------------------
+
+From the data givent after the analysis it is found that the group as a whole when considred , the most dominant group is btw 24 to 23 of age.
+The least is the age group between 35 to 39 which indicate more young professionals are recruited and the work efficency can be doubled 
+
+
+SALARY AND POSITION EXPENDITURE :
+
+-------------------------------------------
+
+THE CLEVELAND CAVALIERS ARE THE TEAM WHO GOT MORE EXPENDITURE FROM THE LIST GIVEN AND THEY UTILZE THE BUDGET THE MOST IN THE LIST.
+THEY ARE FOLLOWED BY THE LOS ANGELES CLIPPERS AND SO ON .
+
+
+AFTER THE ANALYSIS THE TEAM WHO GET MOST PAID IS THE GROUP C AND SINCE THEY ARE THE GROUP IS GETTING THE MOST PAID THEY ARE ASSUMED TO BE THE BEST TEAM AMONG THE GIVEN LIST OF THE TEAMS AND POSITIONS.
+
+CORELATION BETWEEN THE AGE AND SALARY :
+----------------------------------------------
+
+FROM THE ANALYSIS IT IS FOUND THAT THE CORELATION BETWEEN THE AGE AND SALARY IS 
+ + 0.21 , whihc is not that strong as a whole . The salary will tend to increase when the age increase but the relation is not that strong.
+
+ It is evident that the relation being not that strong when the age increase salary wont increase to a big extend.
+
+
+ GRAPH PLOT :
+ -------------------------------------------
+
+ FOR EACH OF THE FINDINGS , THERE IS A PLOT GIVEN FROM WHICH WE CAN GET TO KNOW THE RELATION BETWEEN THE DIFFERENT VARIBALES LIKE AGE , SALARY ETC IN THE GIVEN DATA SET
